@@ -1,0 +1,7 @@
+C:\Users\karobatti\OneDrive - Debreceni SZC Beregszászi Pál Technikum\repos\Elso\Elso\bin\Debug\Elso.exe.config
+C:\Users\karobatti\OneDrive - Debreceni SZC Beregszászi Pál Technikum\repos\Elso\Elso\bin\Debug\Elso.exe
+C:\Users\karobatti\OneDrive - Debreceni SZC Beregszászi Pál Technikum\repos\Elso\Elso\bin\Debug\Elso.pdb
+C:\Users\karobatti\OneDrive - Debreceni SZC Beregszászi Pál Technikum\repos\Elso\Elso\obj\Debug\Elso.csproj.AssemblyReference.cache
+C:\Users\karobatti\OneDrive - Debreceni SZC Beregszászi Pál Technikum\repos\Elso\Elso\obj\Debug\Elso.csproj.CoreCompileInputs.cache
+C:\Users\karobatti\OneDrive - Debreceni SZC Beregszászi Pál Technikum\repos\Elso\Elso\obj\Debug\Elso.exe
+C:\Users\karobatti\OneDrive - Debreceni SZC Beregszászi Pál Technikum\repos\Elso\Elso\obj\Debug\Elso.pdb
